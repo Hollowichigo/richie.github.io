@@ -1,0 +1,42 @@
+#utcdate {
+	margin: -22px 0px 6px; font-size: small !important;
+}
+#WikiaArticle {
+	font-size: 13px;
+}
+body.background-dynamic::after {
+	top: inherit !important; bottom: 0px !important;
+}
+body.background-dynamic::before {
+	top: inherit !important; bottom: 0px !important;
+}
+ul.tabbernav {
+	font: 14px/normal Helvetica, Arial, sans-serif !important; padding: 10px 0px !important; border-radius: 0px !important; border-top-color: rgb(0, 46, 84); border-bottom-color: currentColor !important; border-top-width: 5px; border-bottom-width: 0px !important; border-top-style: solid; border-bottom-style: solid !important; font-size-adjust: none !important; font-stretch: normal !important;
+}
+ul.tabbernav li {
+	
+}
+ul.tabbernav li a {
+	background: rgb(255, 255, 255) !important; padding: 10px !important; border-radius: 0px !important; border: 0px solid currentColor !important; border-image: none !important; margin-left: 0px !important;
+}
+ul.tabbernav li a:link {
+	color: rgb(0, 46, 84) !important;
+}
+ul.tabbernav li a:visited {
+	color: rgb(0, 46, 84) !important;
+}
+ul.tabbernav li a:hover {
+	border-color: transparent !important; border-radius: 0px !important; color: rgb(255, 255, 255) !important; background-color: rgb(0, 46, 84) !important;
+}
+ul.tabbernav li.tabberactive a {
+	border-width: 0px 0px 1px !important; border-style: solid !important; border-color: rgb(217, 217, 217) rgb(217, 217, 217) rgb(255, 255, 255) !important; border-radius: 0px !important; border-image: none !important; color: rgb(255, 255, 255) !important; font-weight: normal !important; background-color: rgb(0, 46, 84) !important;
+}
+ul.tabbernav li.tabberactive a:hover {
+	border-width: 0px !important; border-style: solid !important; border-color: rgb(217, 217, 217) rgb(217, 217, 217) rgb(255, 255, 255) !important; border-radius: 0px; border-image: none !important;
+}
+.tabberlive {
+	width: auto !important;
+}
+.tabberlive .tabbertab {
+	border-width: 0px !important; border-style: none solid solid !important; border-color: currentColor rgb(217, 217, 217) rgb(217, 217, 217) !important; border-radius: 0px !important; border-image: none !important;
+}

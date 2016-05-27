@@ -1,0 +1,9 @@
+body #WikiaPage #NotExistingRule {
+	font-family: serif;
+}
+body #WikiaPage #WikiaPageHeader::after {
+	display: none; content: none;
+}
+body #WikiaPage #WikiaArticle {
+	display: block;
+}
